@@ -4,6 +4,6 @@
 separando seus diretórios organizadamente por matéria e periodo.
 
 <h2>Integrantes do time</h2>
-✔ Marcos Silva
-✔ João Dessupoio
-✔ Heber Sales
+✔ <a href="https://github.com/m4rcxs">Marcos Silva</a>
+✔ <a href="https://github.com/joaodessup">João Dessupoio</a>
+✔ <a href="https://github.com/hebersales">Heber Sales</a>
